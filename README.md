@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @fakedGrid
+- 👀 I’m interested in programming and ethical hacking
+- 🌱 I’m currently learning machine learning
+- 📫 How to reach me : you can email me at ruchisri1979@gmail.com
+- 🎓 I am a high school student 
+- 💻 I started learning to program when I was 11 and I am still exploring this field
+- 😀 Thanks for reading this 
